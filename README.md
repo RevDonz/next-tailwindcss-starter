@@ -1,4 +1,4 @@
-# <p align="center">NEXT.js Starter TailwindCSS</p>
+# <p align="center">NEXT.js TailwindCSS Starter</p>
 
 <p align="center">
   <b>NEXT.js starter with Tailwind CSS, TypeScript, next-themes (Dark Mode), and React Icons.</b>
